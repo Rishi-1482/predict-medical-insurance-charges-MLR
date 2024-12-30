@@ -1,5 +1,7 @@
 # README
 
+This project is built from scratch using multi-linear regression and K-folds cross-validation to predict medical insurance costs based on various factors. To run the project, follow the steps below:
+
 - Install `python3` and `jupyter notebook`
 
 - Install libraries - `pip install pandas numpy matplotlib seaborn` 
